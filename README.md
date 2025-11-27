@@ -10,7 +10,7 @@
   - QT-based UI components (Compass UI, Dockable panels)
   - Image and color processing tools (OpenCV)
 - 🤝 I’m looking to collaborate on **Qt/C++ and C# desktop projects**.
-- 📫 Reach me at: **sanamsah05@gmail.com**
+- 📫 Reach me at: **snm.sah01@gmail.com**
 
 ---
 
