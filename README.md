@@ -1,22 +1,119 @@
 # 👋 Hi, I'm Sanam (Zeus)
 
-### 💻 Software Developer | C++ | Qt | C# | Desktop Applications
+## 🚀 Software Developer | C++ | AI | Qt/QML | MFC | Computer Vision
 
-- 🔭 I work with **C++, Qt/QML, MFC, WinForms, OpenCV**, and modern desktop development.
-- 👀 I’m interested in **AI tools, automation, and UI/UX for desktop apps**.
-- 🌱 I’m currently learning **Qt/QML and C# advanced features**.
-- 🛠️ I build tools like:
-  - Excel automation utilities
-  - QT-based UI components (Compass UI, Dockable panels)
-  - Image and color processing tools (OpenCV)
-- 🤝 I’m looking to collaborate on **Qt/C++ and C# desktop projects**.
-- 📫 Reach me at: **snm.sah01@gmail.com**
+Passionate software developer with experience building high-performance desktop applications, CAD/CAM solutions, automation tools, and modern user interfaces.
+
+### 💼 What I Work On
+
+* 🔹 Desktop Application Development
+* 🔹 Modern C++ (C++17/20)
+* 🔹 Qt & QML Development
+* 🔹 MFC & Win32 Applications
+* 🔹 OpenCV Image Processing
+* 🔹 CAD/CAM Software Development
+* 🔹 Automation & Productivity Tools
+* 🔹 AI-Powered Software Solutions
 
 ---
 
-Thanks for visiting my GitHub profile! 🚀
+## 🛠️ Tech Stack
 
-<!---
-SANAMSAH/SANAMSAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages
+
+* C++
+* Python
+* JavaScript
+
+### Frameworks & Libraries
+
+* Qt / QML
+* MFC
+* Win32 API
+* OpenCV
+* STL
+
+### Tools
+
+* Visual Studio
+* VS Code
+* Git & GitHub
+* Linux
+* Windows
+
+---
+
+## 🔥 Current Focus
+
+* Advanced Qt/QML Development
+* Modern Desktop UI/UX
+* AI Integration in Desktop Applications
+* Performance Optimization in C++
+* Software Architecture & Design Patterns
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ Desktop Applications
+
+* Dockable UI Panels using Qt
+* Compass Dashboard UI with QML Animations
+* Color Palette Extraction Tool (OpenCV + Qt)
+* Excel Automation Utilities
+
+### 🏭 CAD/CAM Solutions
+
+* Garment Industry Software Development
+* Pattern Design & Visualization Tools
+* Fabric & Color Management Solutions
+* 2D/3D Design Workflows
+
+### 🎨 Computer Vision
+
+* Image Processing Tools
+* Color Detection & Analysis
+* Object Recognition Experiments
+
+### 🤖 AI & Automation
+
+* Workflow Automation Tools
+* AI-assisted Desktop Applications
+* Productivity Utilities
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Qt/QML
+* Linux Development
+* Software Design Patterns
+* AI Agent Development
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm interested in collaborating on:
+
+* Qt/QML Projects
+* C++ Desktop Applications
+* MFC Applications
+* OpenCV Solutions
+* CAD/CAM Software
+* Automation Tools
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[snm.sah01@gmail.com](mailto:snm.sah01@gmail.com)**
+
+---
+
+⭐ If you find my projects useful, consider giving them a star!
+
+### 💡 Motto
+
+"Turning ideas into powerful desktop applications with C++."
+
